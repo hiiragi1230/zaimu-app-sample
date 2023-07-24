@@ -32,10 +32,10 @@
           <a class="nav-link" href="#">パスワード変更</a>
         </li>
         <li class="list-group-item">
-          <a class="nav-link" href="#">メールアドレス変更</a>
+          <NuxtLink class="nav-link" href="/">メールアドレス変更</NuxtLink>
         </li>
         <li class="list-group-item">
-          <a class="nav-link" href="#">アカウント解約</a>
+          <NuxtLink class="nav-link" href="/">アカウント解約</NuxtLink>
         </li>
       </ul>
       </div>
