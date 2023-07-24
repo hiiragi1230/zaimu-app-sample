@@ -8,13 +8,13 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link active" aria-current="page" href=".">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">各種メニュー</a>
+              <NuxtLink class="nav-link" to="#">各種メニュー</NuxtLink>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">マイページ</a>
+              <NuxtLink class="nav-link" to="mypage">マイページ</NuxtLink>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">アカウント情報</a>
