@@ -26,10 +26,10 @@
       </div>
       <ul class="list-group list-group-flush">
         <li class="list-group-item">
-          <NuxtLink class="nav-link" href="#">ユーザー情報</NuxtLink>
+          <NuxtLink class="nav-link" href="/">ユーザー情報</NuxtLink>
         </li>
         <li class="list-group-item">
-          <NuxtLink class="nav-link" href="#">パスワード変更</NuxtLink>
+          <NuxtLink class="nav-link" href="/">パスワード変更</NuxtLink>
         </li>
         <li class="list-group-item">
           <NuxtLink class="nav-link" href="/">メールアドレス変更</NuxtLink>
